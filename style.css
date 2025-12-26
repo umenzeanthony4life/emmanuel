@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: blue;
+    background-color:fuchsia;
+}
+.header{
+    background-color: white;
+    margin: 0;
+    padding: 1rem;
+    justify-content: space-around;
+    display: flex;
+
+}
+.header nav{
+    margin: 0;
+    padding: 10px, 10px, 0, 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10px;
+color: aliceblue;
+}
+.product h4{
+    background:url(download\ \(3\).jpeg);
+    background-size: contain;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    color: palevioletred;
+    background-repeat: no-repeat;
+
+}
+.comfort{
+    color: white;
+    background:url(download\ \(4\).jpeg);
+    background-size: contain;
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    padding: 10px, 20px;
+}
+.product button{
+    background-color:blueviolet;
+    color:yellow;
+}
+.fried{
+    color: aliceblue;
+    background: url(download\ \(5\).jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width:500px ;
+    height: 200px;
+}
+.means{
+    color: pink;
+    background: url(spaghetti.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 300px;
+    height: 200px;
+}
