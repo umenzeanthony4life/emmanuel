@@ -1,0 +1,13 @@
+ALGORITHM three_nb_add
+VAR
+    num1, num2, num3 : INTEGER;
+    sum : INTEGER:= 0;
+BEGIN
+    Read(num1)
+    Read(num2)
+    Read(num3)
+    length:= 3
+    words:=3
+    vowels:=1
+    Write(length,vowels,words)
+END
